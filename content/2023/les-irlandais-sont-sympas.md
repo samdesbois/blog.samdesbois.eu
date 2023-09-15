@@ -3,7 +3,7 @@ Date: 2023-09-07
 Category: Perso
 
 On entend souvent dire que les Irlandais sont gentils. Je suis dans ce pays 
-depuis maintenant 10 jours, je dirais et ma première impression est 
+depuis maintenant 10 jours, je dirais que ma première impression est 
 celle-là. Bien-sûr, je suis tombé sur quelques cons, mais dans l'ensemble, je 
 suis assez d'accord avec cela. Je vais vous retranscrire une petite 
 anecdote pour illustrer mon propos.
