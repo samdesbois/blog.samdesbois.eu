@@ -1,10 +1,11 @@
 AUTHOR = 'Sam'
 SITENAME = 'Blog de Sam Des Bois'
 SITEURL = ''
-SITELOGO = 'images/44069150_10156839528988653_7117737592409292800_n.jpg'
+SITELOGO = '/images/44069150_10156839528988653_7117737592409292800_n.jpg'
 
-
-PATH = 'content'
+THEME = "../"
+PATH = "content"
+OUTPUT_PATH = "blog/"
 
 ROBOTS = "index, follow"
 
@@ -34,14 +35,20 @@ AUTHOR_FEED_RSS = None
 #}
 
 # Blogroll
-LINKS = (('Home', 'index.html'),
-         ('Archives', 'archives.html'),)
+LINKS = (
+    ("Home", "/index.html"),
+    ("Archives", "/archives.html"),
+    ("Categories", "/categories.html"),
+    ("Tags", "/tags.html"),
+)
 
 # Social widget
 SOCIAL = (('Facebook', 'https://www.facebook.com/profile.php?id=618863652'),
           ('Twitter', 'https://twitter.com/SamDesBois'),)
 
+# Miscellaneous
 DEFAULT_PAGINATION = 10
+DISABLE_URL_HASH = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
