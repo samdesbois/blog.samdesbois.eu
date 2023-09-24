@@ -34,7 +34,7 @@ AUTHOR_FEED_RSS = None
 #}
 
 # Blogroll
-LINKS = (('Home', ''),
+LINKS = (('Home', 'index.html'),
          ('Archives', 'archives.html'),)
 
 # Social widget

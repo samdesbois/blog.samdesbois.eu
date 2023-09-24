@@ -1,11 +1,11 @@
 Title: Que penser des déserteurs ukrainiens ?
-Date: 2023-09-23
-Category: Actuality
+Date: 2023-09-24
+Modified: 2023-09-24
+Category: Actualités
 Tags: Ukraine, Guerre en Ukraine
 
-## Pourquoi je les repère si facilement
-
-J'ai l'œil, ou plus exactement l'oreille. Grâce à ma connaissance assez 
+Pourquoi je les repère si facilement ? J'ai l'œil, ou plus exactement 
+l'oreille. Grâce à ma connaissance assez 
 bonne du Polonais, j'arrive à reconnaître les Ukrainiens que je croise dans 
 la rue lorsque je les entends parler. Je me trompe rarement lorsque j'ai 
 l'impression d'entendre du Polonais, mais que ce n'en n'est pas. Il y a 
