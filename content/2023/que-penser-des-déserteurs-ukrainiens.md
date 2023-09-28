@@ -15,7 +15,7 @@ vraiment une grande similitude entre les deux langues.
 
 Cela fait depuis plus 'un an et demi que la guerre entre la Russie et 
 l'Ukraine a pris une nouvelle dimension. La guerre a vraiment commencé en 
-2014 avec l'annexion de la Crimée et la guerre du Donesk. Nous sommes au 
+2014 avec l'annexion de la Crimée et la guerre du Donbass. Nous sommes au 
 début de l'automne et la contre-offensive de l'Ukraine semble avoir un 
 effet mitigé. J'espère qu'une brèche se fera avant la "pause" hivernale, 
 cela peut aller très vite après.
