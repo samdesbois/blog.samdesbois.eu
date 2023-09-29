@@ -1,30 +1,30 @@
 Title: Je crée un nouveau serveur mail
 Date: 2023-09-28
+Modified: 2023-09-29
 Category: Informatique
 Tags: email, linux
 
-Dans ma quête de perte de temps, je vais essayer d'héberger mes mail mais sur 
-mon serveur de nouveau, c'est-à-dire ne pas passer par aucun fournisseur de 
-boîte mail dont le plus connu reste *gmail* avec ses quelques avec ses 1,5 
-milliards de comptes actifs, tout en sachant qu'il y aurait 1,7 comptes 
+Dans ma quête de perte de temps, je vais essayer d'héberger mes mails, mais 
+sur 
+mon serveur de nouveau, c'est-à-dire ne pas passer par un fournisseur de 
+boîte mail dont le plus connu reste *gmail* avec ses quelque 1,5
+milliards de comptes actifs, tout en sachant qu'il y aurait 1,7 de comptes 
 (toute messagerie confondue) par humain.[^1]
 
 J'utilise le tuto officiel[^2] pour installer la solution alléchante sur le 
-papier, car utilise le système Docker : **Docker MailServer** ou DMS.
+papier (car utilise le système Docker) : **Docker MailServer** ou DMS.
 
 Je ne vais pas paraphraser le tuto, mais vais seulement indiquer les petites 
 astuces lorsque j'étais bloqué. J'ai essentiellement fait des 
-allers-retours entre le tuto ci-dessous et la documentation[^3] de mon 
-fournisseur [pulseheberg](https://pulseheberg.com).
+allers-retours entre le tuto ci-dessus et la documentation[^3] de mon 
+hébergeur de serveur : [pulseheberg](https://pulseheberg.com).
 
 ## La partie DNS
 J'ai un peu galéré avec mon fournisseur, concernant la parie *MX*,  car il 
-faut ajouter dans la 
-case 
-finale la priorité de la requête 
-(j'ai choisi 10, car c'est ce que je vois le plus). J'ai rajouté un `.` à 
-la fin de l'adresse pour que ce soir plus propre lors des retours d'adresse.
-Sinon l'adresse apparaît deux fois dans le retour.
+faut ajouter dans la case finale la priorité de la requête 
+(j'ai choisi 10, parce que c'est ce que je vois le plus dans les billets). 
+J'ai rajouté un `.` à la fin de l'adresse pour que ce soir plus propre lors 
+des retours d'adresse. Sinon l'adresse apparaît deux fois dans le retour.
 
 ![capture d'écran de ma zone DNS](../images/mfjsdmfjslmkdfjslkdfj324324324324.png)
 
@@ -61,8 +61,7 @@ celle sur gmail.
 La chose qui manque vraiment à une utilisation personnelle est le système 
 de sauvegarde. C'est peut-être un futur mini projet !
 
-[^1]: [arobase.org - 27 septembre 2023]
-(https://www.arobase.org/actu/chiffres-email.htm)
+[^1]: [arobase.org - 27 septembre 2023](https://www.arobase.org/actu/chiffres-email.htm)
 
 [^2]: [docker-mailserver.github.io - 27 septembre 2023](https://docker-mailserver.github.
 io/docker-mailserver/latest/usage/)
