@@ -1,4 +1,4 @@
-Title: Créer une liste de nombre aléatoire depuis un interval avec Python
+Title: Créer une liste de nombre aléatoire depuis un intervalle avec Python
 Date: 2023-11-11
 Category: Informatique
 Tags: python, code
