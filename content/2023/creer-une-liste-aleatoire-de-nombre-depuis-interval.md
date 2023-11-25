@@ -2,7 +2,7 @@ Title: Créer une liste de nombre aléatoire depuis un intervalle avec Python
 Date: 2023-11-11
 Category: Informatique
 Tags: python, code
-Summary: Petit exexercie d'informatique avec python.
+Summary: Petit exexercice d'informatique avec python.
 
 ## Contexte et définition du problème
 C'est la fin de la semaine. Il ne me reste que plus quelques heures avant 
