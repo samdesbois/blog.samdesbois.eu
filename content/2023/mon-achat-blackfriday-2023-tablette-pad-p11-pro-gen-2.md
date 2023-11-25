@@ -1,8 +1,19 @@
 Title: Mon bon pan Black Friday 2023 : la tablette Lenovo P11 pro gen 2
-Date: 
+Date: 2023-11-25
 Category: High Tech
 Language: fr
 Tags: Lenovo, tablette, p11 pro Gen 2, Snapdragon, Oled
+
+## Attention
+L'annonce du produit est [ici](https://fr.aliexpress.
+com/item/1005005562885369.html?spm=a2g0o.order_list.order_list_main.22.
+d5d75e5bodSnOm&gatewayAdapt=glo2fra#nav-specification) mais à l'heure où 
+j'écris cet article, il n'est pas possible de se le faire livrer en France. 
+Je suis actuellement dans un pays européen plus petit qui peut recevoir 
+l'article. Les commentaires sur le modèle restent valables, par contre vous 
+devrez chercher avec les bonnes caractéristiques chez un autre vendeur si 
+vous voulez le recevoir en France.
+
 
 ## Contexte
 Je suis addict quand il s'agit de faire un achat sur Internet. J'aime 
