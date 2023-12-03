@@ -1,4 +1,4 @@
-Title: Mon bon pan Black Friday 2023 : la tablette Lenovo P11 pro gen 2
+Title: Mon bon plan Black Friday 2023 : la tablette Lenovo P11 pro gen 2 Oled
 Date: 2023-11-25
 Category: High Tech
 Language: fr
@@ -14,6 +14,9 @@ l'article. Les commentaires sur le modèle restent valables, par contre vous
 devrez chercher avec les bonnes caractéristiques chez un autre vendeur si 
 vous voulez le recevoir en France.
 
+Je n'ai pas encore reçu l'article. Ce sont dont des réflexions qui sont le 
+fruit d'informations glanées sites marchants, site 
+officiel, un site de bon plan[^1] et autre(s)[^2].
 
 ## Contexte
 Je suis addict quand il s'agit de faire un achat sur Internet. J'aime 
@@ -35,6 +38,7 @@ Tablette 11.2" **Lenovo Tab P11 Pro Gen 2** - **OLED** 120Hz 2.5K (2560 x
 La tablette version européenne reste chère. Attention, il y a de nombreuses 
 différences entre les versions européennes et chinoises contrairement à ce 
 que certains prétendent dans les commentaires :
+
 - **Snapdragon 870** + 128G en 7 nm (en version européenne, c'est le 
   processeur 
 Mediatek 1300T qui est gravé en 6 nm). Le Snapdragon semble plus performant, 
@@ -83,3 +87,7 @@ semble plus intéressante que la version européenne avec comme grande
 différence la luminosité de l'écran : 600 nits contre 400. La version 
 européenne coûte actuellement 449 € sur le site officiel Lenovo. La 
 promotion sur aliexpress s'arrête le 29/11/2023 à minuit.
+
+[^1]: [page dealabs.com](https://www.dealabs.
+com/bons-plans/tablette-lenovo-11-pouces-oled-et-pen-2672306)
+[^2]: [vidéo youtube de test](https://www.youtube.com/watch?v=dPr53T5LDLg)
