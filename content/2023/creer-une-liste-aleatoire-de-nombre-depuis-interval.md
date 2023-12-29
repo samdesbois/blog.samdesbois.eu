@@ -54,14 +54,14 @@ méthode avec cette commande : `help(random.sampl)`
 En bidouillant avec les fonctions intégrées `range()` et `list()`, j'arrive 
 à ce code fonctionnel pour mon problème.
 
-````python
+```python
 import random
 
 my_list = list(range(51, 76))
 my_list_randomized = random.sample(my_list, len(my_list))
 
 print(my_list_randomized)
-````
+```
 
 Et la *built-in* fonction `len()` permet de connaitre la longueur de notre 
 liste, car la méthode `random.sample()` a besoin d'un deuxième paramètre 
