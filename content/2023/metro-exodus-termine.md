@@ -1,9 +1,10 @@
 Title: Metro Exodus Terminé
 Date: 2023-12-03
+Modified : 2023-12-03
 Language: fr
 Category: Jeux vidéo
-Status: Draft
-Tags: jeux vidéo, Metro, Metro Redux, Macbook M1, dystopie
+Status: Published
+Tags: jeux vidéo, Metro, Metro Exodus, Macbook M1, dystopie
 
 ## Une longue attente
 J'ai acheté ce jeu il y a plusieurs années déjà. J'ai ce genre de jeux vido 
@@ -13,8 +14,7 @@ tire à la première personne (first person shooter) : S.T.A.L.K.E.R.. Je
 pense que je l'ai acheté au prix fort en 2019 et je ne l'ai fini qu'en 
 décembre 2019.
 
-![dessin fille qui s'ennuie sur bureau école]
-(../images/PXL_20231203_083629501-min.jpg)
+![dessin fille qui s'ennuie sur bureau école](images/PXL_20231203_083629501-min.jpg)
 
 ## Comment j'y ai joué
 Dans ma première tentative, j'y jouais en cloud gaming. À cause de problèmes 
@@ -51,13 +51,17 @@ références sur la modélisation des ennemis en vain. Si vous trouvez
 information, merci de me contacter. Peut-être que mes souvenirs me jouent 
 des tours.
 
+## Mon impression rapidement
+
 L'histoire est assez décevante. Pour un titre qui s'inspire de romans, je 
 m'attendais à mieux. Pour un autre titre comme The Witcher, on est a des 
 années lumières au niveau de la qualité du scénario.
 
-## En conclusion
 Le jeu est beau, l'atmosphère est grandiose. Dommage que l'on sorte des 
-contrées enneigées par moment. Le final corrige un peu cet écart. Ce que je 
+contrées enneigées par moment. Le final corrige un peu cet écart.
+
+## En conclusion
+Ce que je 
 retiens malheureusement de cette expérience, c'est surtout le fait de 
 pouvoir jouer à un jeu gourmand graphiquement sur un ordinateur Apple avec 
 leur processeur maison das des conditions plus qu'honorable. Cela me donne 
