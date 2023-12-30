@@ -1,4 +1,4 @@
-Title: Qual é à banda desenhada ?
+Title: Qual é a banda desenhada ?
 Date: 2023-12-30
 Language: pt
 Category: histótias
