@@ -1,7 +1,7 @@
 Title: Qual é a banda desenhada ?
 Date: 2023-12-30
 Language: pt
-Category: histótias
+Category: histórias
 Status: Published
 Tags: Mônica, Brasil, Os meus TPC de português
 

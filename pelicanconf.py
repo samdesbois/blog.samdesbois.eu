@@ -58,11 +58,11 @@ DISABLE_URL_HASH = True
 # Paramètres
 # STATIC_PATHS = []
 
-# ISSO_URL = "http://comments.samdesbois.eu/"
-# # ISSO_EMBED_JS_PATH = '/static/javascript/isso-dev.min.js'
-# ISSO_OPTIONS = {
-#     'avatar': 'false',
-#     'gravatar': 'true',
-#     'reply-to-self': 'true',
-#     'reply-notifications': 'true',
-# }
+ISSO_URL = "http://comments.samdesbois.eu/"
+# ISSO_EMBED_JS_PATH = '/static/javascript/isso-dev.min.js'
+ISSO_OPTIONS = {
+    'avatar': 'false',
+    'gravatar': 'true',
+    'reply-to-self': 'true',
+    'reply-notifications': 'true',
+}
