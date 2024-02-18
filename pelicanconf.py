@@ -58,8 +58,9 @@ DISABLE_URL_HASH = True
 # Paramètres
 # STATIC_PATHS = []
 
-ISSO_URL = "http://comments.samdesbois.eu/"
-# ISSO_EMBED_JS_PATH = '/static/javascript/isso-dev.min.js'
+# Isso comments integration
+ISSO_URL = "comments.samdesbois.eu"
+# ISSO_EMBED_JS_PATH = '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/isso/js/embed.dev.js'
 ISSO_OPTIONS = {
     'avatar': 'false',
     'gravatar': 'true',
