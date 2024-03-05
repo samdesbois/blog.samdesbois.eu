@@ -4,9 +4,9 @@ Category: aquariophilie
 language: fr
 Tags: cardinalis, black water
 
-Je n'ai pas attendu les 4 semaines réglmentaires. J'ai fait des tests, mais 
+Je n'ai pas attendu les 4 semaines régl"mentaires. J'ai fait des tests, mais 
 je n'ai pas observé le pic des nitrates. Peut-être que les éléments que 
-j'ai apportés de la nature lors de la mise en eau ont accéléré les choses.
+j'ai apportés de la nature, lors de la mise en eau, ont accéléré les choses.
 
 ![photo 3 cardinalis](../images/PXL_20240303_135638137.jpg)
 
