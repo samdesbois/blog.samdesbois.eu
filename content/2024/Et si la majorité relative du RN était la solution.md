@@ -1,4 +1,4 @@
-Title: Et si la majorité relative du RN était la solution
+Title: Et si la majorité relative du RN était la solution ?
 Date: 2024-07-04
 Category: politique
 language: fr
