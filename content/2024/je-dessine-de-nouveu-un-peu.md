@@ -1,9 +1,9 @@
 Title: Je dessine de nouveau… un peu
-Date: 2024-010-06
+Date: 2024-10-06
 Category: perso
 language: fr
 Tags: dessin
-Status: published
+Status: Published
 
 Je me suis acheté un petit livre ("Kawaii!" d'Annelore Parot) de dessin sur 
 la culture japonaise. Le dessin aspire à la simplicité avec des lignes 
