@@ -19,16 +19,17 @@ print("Nice to meet you!")
 
 number_to_guess = randint(1,20)
 
-print("{}, You have {} tries to guess the number between 1 and 20 before "
-      "loosing.".format(pseudo, TRIES_NUMBRER))
+print("{}, You have {} tries to guess the number "
+      "between 1 and 20 before loosing."
+      .format(pseudo, TRIES_NUMBRER))
 
 i = 1
 while i < TRIES_NUMBRER + 1:
     guess = int(input("Enter your guess: "))
 
     if guess == number_to_guess:
-        print("Well done {}! You found the number with only {} tries!"
-              .format(pseudo, i))
+        print("Well done {}! You found the number "
+              "with only {} tries!".format(pseudo, i))
         exit(0)
     elif guess < number_to_guess:
         print("Too low!")
