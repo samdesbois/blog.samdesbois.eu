@@ -55,6 +55,7 @@ DISABLE_URL_HASH = True
 
 # Ajouté par moi.
 
+
 # Paramètres
 # STATIC_PATHS = []
 

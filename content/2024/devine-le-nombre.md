@@ -1,8 +1,8 @@
 Title: Programme pour deviner un nombre
 Date: 2024-10-13
-Category: perso
+Category: programmation
 language: fr
-Tags: programmation 
+Tags: python, code
 Status: Published
 
 Ce programme ultra simple n'en est pas moins un jeu vidéo.
